@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText mAmountView;
     private Button mPayView;
+    private String code;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
